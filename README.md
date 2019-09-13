@@ -1,4 +1,4 @@
-# storybook-test
+# vue-storybook-boilerplate
 
 ## Project setup
 ```

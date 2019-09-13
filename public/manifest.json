@@ -1,6 +1,6 @@
 {
-  "name": "storybook-test",
-  "short_name": "storybook-test",
+  "name": "vue-storybook-boilerplate",
+  "short_name": "vue-storybook-boilerplate",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
